@@ -1,0 +1,37 @@
+PROJECT TITLE:
+Used Car Price Prediction Using Machine Learning
+
+PROJECT DESCRIPTION:
+This project focuses on predicting the selling price of used cars using a machine learning regression approach. The dataset was cleaned, preprocessed, and analyzed using Python libraries. Categorical variables were encoded, numerical features were scaled, and exploratory data analysis was performed through visualizations. A Random Forest Regressor model was trained and evaluated to generate accurate price predictions.
+
+TECHNOLOGIES USED:
+
+Python
+
+Pandas, NumPy
+
+Matplotlib, Seaborn
+
+Scikit-learn
+
+KEY STEPS IMPLEMENTED:
+
+Data cleaning and duplicate removal
+
+Encoding categorical features using LabelEncoder
+
+Feature scaling using StandardScaler
+
+Exploratory Data Analysis (EDA) with visualizations
+
+Model training using Random Forest Regressor
+
+Model evaluation using MAE, MSE, and R² score
+
+Feature importance analysis
+
+PROJECT TYPE:
+Machine Learning / Data Analytics
+
+PURPOSE:
+To demonstrate practical application of machine learning techniques, data preprocessing, and model evaluation for solving real-world price prediction problems.
